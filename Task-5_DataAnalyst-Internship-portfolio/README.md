@@ -77,7 +77,7 @@ Matplotlib
 ## Resume
 
 📄 **Download Resume**
-[Download Resume](Resume/yasaswi2.pdf)
+[Download Resume](Resume/yasaswi2(1).pdf)
 
 ---
 
