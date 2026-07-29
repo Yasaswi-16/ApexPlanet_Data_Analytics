@@ -76,9 +76,8 @@ Matplotlib
 
 ## Resume
 
-Download Resume - 📄 Resume
-
-[Download Resume](Resume/Cherukuri_Bhavyasree_Resume.pdf)
+📄 **Download Resume**
+[Download Resume](Resume/yasaswi2.pdf)
 
 ---
 
